@@ -6,7 +6,7 @@ This software is provided for educational and informational purposes only. The a
 
 
 
-Instructions for Using the Code
+Instructions
 
 1. Clone the Repository:
    - First, you need to clone the repository to your local machine. Open a terminal and run:
